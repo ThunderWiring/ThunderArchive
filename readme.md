@@ -18,5 +18,5 @@ In this repository you will find:
 4) Program.cs
 
 ********************************************************************************
-NOTES: remember that this is just the very begining stages of the project, it is 
+*NOTES:* remember that this is just the very begining stages of the project, it is 
 not even close to a beta version, it's merly the structure.
