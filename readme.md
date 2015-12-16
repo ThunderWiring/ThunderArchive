@@ -6,6 +6,7 @@ Website: https://thunderwiring.wordpress.com/
 ********************************************************************************
 
 In this repository you will find:
+---------------------------------
 1) homeForm.cs : main file that implements all the widgit functions and handles-
 		 all the events
 2) homeForm.Designer.cs : had the declaration of all the widgits and events(created-
